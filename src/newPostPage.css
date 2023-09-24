@@ -1,0 +1,12 @@
+/* NewPostPage.css */
+.form-label {
+    font-weight: bold;
+    color: #333; /* Text color */
+  }
+  
+  .text-danger {
+    color: red; /* Error text color */
+  }
+  
+  /* Add any additional custom styling as needed */
+  

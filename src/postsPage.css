@@ -1,0 +1,10 @@
+/* PostsPage.css */
+.post-card {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the post cards horizontally */
+    padding: 20px; /* Add spacing inside each post card */
+    box-shadow: 1px 1px 1px gray;
+  }
+  
+  /* Add any additional custom styling as needed */
+  
