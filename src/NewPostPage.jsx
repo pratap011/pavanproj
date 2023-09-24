@@ -38,7 +38,7 @@ const NewPostPage = () => {
         setTitle('');
         setDescription('');
         // Redirect to localhost:3000/home after successful submission
-        window.location.href = 'http://localhost:3000/';
+        window.location.href = 'https://project2-ochre-omega.vercel.app/';
       } else {
         // Handle error cases here
         setIsSuccess(false);
